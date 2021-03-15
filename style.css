@@ -645,8 +645,12 @@ a {
   #about .my-info .my-info-text p {
     margin-bottom: 20px;
   }
+  /* contact */
   #contact form {
     margin-bottom: 10px;
+  }
+  #contact .contact-text {
+    text-align: left;
   }
   #contact form div {
     -webkit-box-orient: vertical;
