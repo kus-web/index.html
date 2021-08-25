@@ -350,7 +350,7 @@ a {
   position: absolute;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
-  top: 2px;
+  top: 6px;
   left: 5px;
 }
 
