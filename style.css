@@ -610,7 +610,7 @@ a {
   text-align: center;
   width: 265px;
   position: absolute;
-  top: 80%;
+  top: 75%;
   left: 50%;
   -webkit-transform: translateX(-50%);
           transform: translateX(-50%);
@@ -641,7 +641,7 @@ a {
 .scroll {
   display: inline-block;
   position: absolute;
-  top: 90%;
+  top: 85%;
   left: 50%;
   -webkit-transform: translate(-50%);
           transform: translate(-50%);
