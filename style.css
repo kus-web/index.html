@@ -1227,10 +1227,10 @@ a {
 
 #page-top a::after {
   content: 'page top';
-  font-size: 0.6rem;
+  font-size: 0.9rem;
   text-transform: uppercase;
   position: absolute;
-  top: 50%;
+  top: 55%;
 }
 
 #page-top a:hover {
