@@ -315,7 +315,6 @@ a {
 .bottom::after {
   content: 'menu';
   text-transform: uppercase;
-  font-size: 1rem;
   position: absolute;
   left: 50%;
   -webkit-transform: translate(-50%);
@@ -346,7 +345,6 @@ a {
 .humberger-icon.active .bottom::after {
   content: 'close';
   text-transform: uppercase;
-  font-size: 1rem;
   position: absolute;
   -webkit-transform: rotate(-45deg);
           transform: rotate(-45deg);
