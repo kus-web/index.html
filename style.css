@@ -512,7 +512,7 @@ a {
 
 .fv-title .fv-area h1 {
   font-size: 2.5rem;
-  font-family: 'ＭＳ 明朝', serif;
+  font-family: 'ＭＳ 明朝', sans-serif;
   letter-spacing: 0.05em;
   -webkit-writing-mode: vertical-rl;
       -ms-writing-mode: tb-rl;
