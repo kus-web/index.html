@@ -512,7 +512,7 @@ a {
 
 .fv-title .fv-area h1 {
   font-size: 2.5rem;
-  font-family: 'ＭＳ 明朝', sans-serif;
+  font-family: "ヒラギノ明朝 ProN W6", "HiraMinProN-W6", "HG明朝E", "ＭＳ Ｐ明朝", "MS PMincho", "MS 明朝", serif;
   letter-spacing: 0.05em;
   -webkit-writing-mode: vertical-rl;
       -ms-writing-mode: tb-rl;
